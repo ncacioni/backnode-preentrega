@@ -1,0 +1,16 @@
+{
+  "name": "backnode-preentrega",
+  "version": "1.0.0",
+  "description": "Pre-entrega Node.js: gestión de productos de FakeStore API desde la terminal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [],
+  "author": "Nahuel Gustavo Cacioni",
+  "license": "ISC"
+}
