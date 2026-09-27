@@ -1,4 +1,4 @@
-# Pre-entrega Node.js — Gestión de productos desde la terminal
+# Pre-entrega Node.js - Gestión de productos desde la terminal
 
 Programa de consola que administra los productos de una tienda en línea usando [FakeStore API](https://fakestoreapi.com/docs). Recibe el comando por terminal, hace la petición a la API con `fetch` y muestra la respuesta.
 
@@ -29,7 +29,7 @@ npm run start DELETE products/7
 Salida de `POST`:
 
 ```
-✅ Producto creado con id 21:
+Producto creado con id 21:
 
 { title: 'T-Shirt-Rex', price: 300, category: 'remeras', id: 21 }
 ```
